@@ -14,8 +14,8 @@ We will release our datasets as soon as possible to support the future work.
 
 
 # Todo
-- [] Add the code to implement our result.
-- [] The three new-collected datasets is on the way.
+-  Add the code to implement our result.
+-  The three new-collected datasets is on the way.
 
 
 # Contact us
