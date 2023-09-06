@@ -12,8 +12,6 @@ Moreover, an auxiliary response generation task enhances prediction via a shared
 To support RADE, we extend three datasets with additional rated responses other than just a golden response by human annotation.
 We will release our datasets as soon as possible to support the future work.
 
-# Overall architecture
-![overall architecture](./asset/overall.png)
 
 # Todo
 - [] Add the code to implement our result.
