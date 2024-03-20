@@ -2,11 +2,11 @@
 
 The dataset for task-specific training:
 ```txt
--chitchat
-  -data.jsonl
--emotion
-  -data.jsonl
--persona
+- chitchat
+  - data.jsonl
+- emotion
+  - data.jsonl
+- persona
   -data.jsonl
 ```
 
