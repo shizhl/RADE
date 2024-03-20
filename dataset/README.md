@@ -7,7 +7,7 @@ The dataset for task-specific training:
 - emotion
   - data.jsonl
 - persona
-  -data.jsonl
+  - data.jsonl
 ```
 
 
