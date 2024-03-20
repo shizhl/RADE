@@ -19,12 +19,6 @@ All the datasets can be found at `./dataset` folder.
 
 
 
-## Todo
-
--  Add the code to reproduce our result.
-
-
-
 ## Contact us
 
 Mail to shizhl@mail.sdu.edu.cn
